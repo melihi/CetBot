@@ -20,7 +20,7 @@ In the developement proccess i used this  sources:
 ## Language
 - python
 
- ## Librares & Requeriments
+ ## Libraries & Requeriments
  - <a href="https://ffmpeg.org/">FFmpeg</a>
  - <a href="https://pypi.org/project/PyNaCl/">PyNaCl</a>
  - <a href="https://pypi.org/project/youtube_dl/">Youtube-dl</a>
